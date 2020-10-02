@@ -1,2 +1,2 @@
 # Arduino
-Finite State Machine Codr for Intel Robot
+Finite State Machine Code for Intel Robot
