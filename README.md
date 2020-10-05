@@ -1,5 +1,5 @@
-# Arduino
-Finite State Machine Code for Intel Robot
+# IntelServerRobot Prototype codes
+Finite State Machine code developed for Arduino
 
 ### Registers_Lesson.ino
 
